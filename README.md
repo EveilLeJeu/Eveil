@@ -1,2 +1,2 @@
 # Eveil
-*  [LeJeu](https://github.com/EveilLeJeu/Eveil/blob/main/Build/index.html)
+*  [LeJeu](https://github.io/EveilLeJeu/Eveil/blob/main/Build/index.html)
